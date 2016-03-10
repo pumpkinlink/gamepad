@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gamepad</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_gamepad">GamepadActivity</string>
+    <string name="dummy_button">Teste</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+</resources>
